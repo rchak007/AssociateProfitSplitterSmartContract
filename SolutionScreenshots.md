@@ -4,13 +4,7 @@
 
 Solidity code:
 
-[](https://gist.github.com/rchak007/b657bbab479359f0b83268dce6e451e5)
-
-
-
-
-
-
+[Solidity code- AssociateProfitSplitter.sol](https://gist.github.com/rchak007/b657bbab479359f0b83268dce6e451e5)
 
 
 
