@@ -1,6 +1,6 @@
 # Smart Contracts 
 
-Implemented 3 smart Contracts in Solidity using Remix IDE and Metamask to connect t Ganache.
+Implemented 3 smart Contracts in Solidity using Remix IDE and Metamask to connect and deploy/test with Ganache and Kovan Testnet.
 
 `AssociateProfitSplitter` smart contract
 
