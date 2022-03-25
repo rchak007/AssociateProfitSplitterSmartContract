@@ -1,6 +1,20 @@
+![smart](Images/smart-contract.png)
+
 # Smart Contracts 
 
-Implemented 3 smart Contracts in Solidity using Remix IDE and Metamask to connect and deploy/test with Ganache and Kovan Testnet.
+Implemented 3 `ProfitSplitter`  smart Contracts in Solidity using Remix IDE and Metamask to connect and deploy/test with Ganache and Kovan Testnet.
+
+These contracts will do several things:
+
+* Pay the Associate-level employees quickly and easily.
+
+* Distribute profits to different tiers of employees.
+
+* Distribute company shares for employees in a "deferred equity incentive plan" automatically.
+
+
+
+
 
 `AssociateProfitSplitter` smart contract
 
